@@ -7,7 +7,7 @@ Activity 1:
 ![Activity 1](Activity1.PNG)  
 
 
-Activity 2:
+Activity 2:  
 ![Activity 2](Activity2.PNG)  
 
 
