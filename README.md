@@ -11,4 +11,4 @@ Activity 2:
 ![Activity 2](Activity2.PNG)  
 
 Activity 3:  
-The Flask context global is an object that the application can use for temporary storage when handling a request. This variable is then reset with each request.
+The Flask context globals are variables that are either an application context or a request context. An application context keeps track of the application-level data uring a request, and the request context keeps track of the request-level data during a request. 
